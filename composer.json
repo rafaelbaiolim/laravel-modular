@@ -1,0 +1,15 @@
+{
+    "name": "rafaellb/blog",
+    "description": "",
+    "authors": [
+        {
+            "name": "Rafael Baiolim",
+            "email": "rafaelbaiolim@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Son\\Blog\\": ""
+        }
+    }
+}
